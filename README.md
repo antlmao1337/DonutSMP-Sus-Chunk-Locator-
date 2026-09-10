@@ -115,5 +115,4 @@ This combination is what makes it effective on servers with strong anti-xray.
 ## Credits
 
 Developed as a focused, high-signal base finder for modern anti-xray environments.
-If you have any questions, problems, concerns or even suggestions, please contact me via my personal Discord
-`alltomorrows`
+For questions, problems, or suggestions, please use the repository's issue tracker.

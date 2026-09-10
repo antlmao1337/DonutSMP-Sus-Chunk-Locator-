@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "name": "Sus Chunk Finder",
   "description": "Lightweight suspicious chunk highlighter",
-  "authors": ["ant"],
+  "authors": ["SusChunk Finder Team"],
   "contact": {},
   "license": "ARR",
   "environment": "client",
