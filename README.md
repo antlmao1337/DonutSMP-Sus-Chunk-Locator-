@@ -1,6 +1,6 @@
 # Suspicious Chunk Scanner
 
-**THIS IS HEAVILY OUTDATED AND WILL NOT WORK AS OF THE NEW DONUTSMP ANTICHEAT, PATCHING THE MAJORITY OF "SUS CHUNK SCANNERS".
+**THIS IS HEAVILY OUTDATED AND WILL NOT WORK AS OF THE NEW DONUTSMP ANTICHEAT, PATCHING THE MAJORITY OF "SUS CHUNK SCANNERS".**
 
 A lightweight, client-side Fabric mod designed for intelligent base and farm detection on heavily anti-xray protected servers (especially DonutSMP).
 
