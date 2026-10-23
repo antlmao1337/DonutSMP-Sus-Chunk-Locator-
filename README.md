@@ -1,5 +1,7 @@
 # Suspicious Chunk Scanner
 
+**THIS IS HEAVILY OUTDATED AND WILL NOT WORK AS OF THE NEW DONUTSMP ANTICHEAT, PATCHING THE MAJORITY OF "SUS CHUNK SCANNERS".
+
 A lightweight, client-side Fabric mod designed for intelligent base and farm detection on heavily anti-xray protected servers (especially DonutSMP).
 
 Unlike simple block ESP or basic density scanners, this mod uses multi-signal scoring, permanent peak memory, spatial clustering, and smart filters to find real player-built structures while staying quiet on natural terrain.
